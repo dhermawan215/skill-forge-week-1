@@ -1,0 +1,13 @@
+//menambahkan file dilokal pc
+git add . 
+// commit perubahan dilocal pc atau file kodingan
+git commit -m "nama commit"
+// push/naikan ke github/git lab/ bitbucket
+git push nama_remote (origin) nama_branch (main)
+
+// cek status commit 
+git status
+// cek nama remote git
+git remote -v
+//cek branch 
+git branch -v
